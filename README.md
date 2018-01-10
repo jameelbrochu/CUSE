@@ -1,4 +1,4 @@
-# SOEN341-Group1
+# Concordia University Schedule Explorer (CUSE)
 ### Team Members: 
 * Mukulika Dey
 * Gabriel Belanger
